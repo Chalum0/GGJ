@@ -1,0 +1,18 @@
+
+# virtual environment
+venv
+
+# .idea files from pycharm
+.idea
+
+# config file python
+ignored.py
+
+# map editor
+mapedit.py
+
+# ignored python files
+ignore.py
+
+__pycache__
+
